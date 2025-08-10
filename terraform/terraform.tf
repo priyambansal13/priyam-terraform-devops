@@ -37,3 +37,4 @@ terraform {
 ##
 ##
 ##
+## NAT gateways will have cost on AWS so dont push on main branch as on main branch only terraform apply will function
